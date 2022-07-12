@@ -1,2 +1,3 @@
-# desafio-git-github-bootcamp
-Desafio git/github Bootcamp Santander Full Stack
+# Desafio Git/Github Bootcamp
+
+Repositório do Desafio git/github Bootcamp Santander Full Stack
