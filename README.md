@@ -22,7 +22,7 @@ Repositório do Desafio git/github Bootcamp Santander Full Stack
   Os arquivos estão prontos e recebem nesta fase o sha1 e podem carregar uma mensagem que os identifique e/ou idenfique a alteração feita.
 
 ### Comandos:
-- Ajuda
+#### Ajuda
 **Geral** 
   git help
 
