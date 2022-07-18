@@ -35,6 +35,7 @@ Geral
 As configurações do git são armazenadas no arquivo .gitconfig localizado dentro do diretório do usuário.
 
 Os comandos a seguir fazem alterações que são incluídas nos arquivos anteriores:
+
 Configurar usuário -> git config --global user.name "Seu username"
 Configurar email -> git config --global user.email seuemail@email.com.br
 Setar editor -> git config --global core.editor vim
