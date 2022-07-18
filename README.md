@@ -32,7 +32,7 @@ Repositório do Desafio git/github Bootcamp Santander Full Stack
 - git help <qualquer_comando_git>
 
 ### Configuração
-**Geral***
+**Geral**
 As configurações do git são armazenadas no arquivo .gitconfig localizado dentro do diretório do usuário.
 
 _Os comandos a seguir fazem alterações que são incluídas nos arquivos anteriores:_ 
